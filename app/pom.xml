@@ -20,7 +20,7 @@
     <parent>
         <groupId>io.openshift.booster</groupId>
         <artifactId>secured-springboot-rest-parent</artifactId>
-        <version>5-SNAPSHOT</version>
+        <version>5-redhat-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
